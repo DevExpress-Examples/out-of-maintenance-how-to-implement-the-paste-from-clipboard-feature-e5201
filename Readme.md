@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Main.cs](./CS/Main.cs) (VB: [Main.vb](./VB/Main.vb))
+* [Program.cs](./CS/Program.cs) (VB: [Program.vb](./VB/Program.vb))
+* [Record.cs](./CS/Record.cs) (VB: [Record.vb](./VB/Record.vb))
+<!-- default file list end -->
 # How to implement the paste from clipboard feature
 
 
