@@ -5,7 +5,7 @@
 * [Program.cs](./CS/Program.cs) (VB: [Program.vb](./VB/Program.vb))
 * [Record.cs](./CS/Record.cs) (VB: [Record.vb](./VB/Record.vb))
 <!-- default file list end -->
-# How to implement the paste from clipboard feature
+# OBSOLETE: How to implement the paste from clipboard feature
 
 
 <p>It's possible to implement pasting multiple rows from clipboard to GridControl with the following approach:<br />- Detect Ctrl+V key combination in the GridControl.ProcessGridKey;<br />- Add the row data to GridControl if the corresponding row exists.</p>
