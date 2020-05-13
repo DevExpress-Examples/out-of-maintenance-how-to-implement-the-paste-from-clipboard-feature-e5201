@@ -5,7 +5,7 @@
 * [Program.cs](./CS/Program.cs) (VB: [Program.vb](./VB/Program.vb))
 * [Record.cs](./CS/Record.cs) (VB: [Record.vb](./VB/Record.vb))
 <!-- default file list end -->
-# OBSOLETE: How to implement the paste from clipboard feature
+# How to implement the paste from clipboard feature
 
 Starting with version <strong>17.2</strong>, pasting data from the Clipboard is supported out of the box. To enable this feature, set the&nbsp;<strong>GridView.OptionsClipboard.PasteMode</strong>&nbsp;property to Update or Append. It should be possible to paste data by pressing CTRL+V or using the&nbsp;<strong>GridView.PasteFromClipboard</strong>&nbsp;method.&nbsp;
 
